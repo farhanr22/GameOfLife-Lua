@@ -28,7 +28,9 @@ A feature-rich, interactive Conway's Game of Life visualizer written in Lua, usi
 2.  Extract the contents of the zip file.
 3.  Open the extracted folder and run `GameOfLife-Lua.exe`.
 
-> If you have LÖVE installed, you can run it by simply downloading the [`GameOfLife-Lua.love`](https://github.com/farhanr22/GameOfLife-Lua/releases/latest/download/GameOfLife-Lua.love) file and running `love path\to\GameOfLife-Lua.love`
+> [!NOTE]
+> If you have LÖVE installed, you can run it by simply downloading the [`GameOfLife-Lua.love`](https://github.com/farhanr22/GameOfLife-Lua/releases/latest/download/GameOfLife-Lua.love) file and double-clicking on it OR by running `love path\to\GameOfLife-Lua.love`.
+
 
 ### For Linux & macOS
 
@@ -45,6 +47,8 @@ A feature-rich, interactive Conway's Game of Life visualizer written in Lua, usi
 ## Controls
 
 ### Basic Controls
+
+Drag your mouse across the grid or click on cells to toggle their state.
 
 | Key     | Action                                         |
 | :------ | :--------------------------------------------- |
